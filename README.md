@@ -1,6 +1,6 @@
 Exercitando o conceito de REST-Ful API com FLASK_RESTFUL.
 
-Nessa nova versão aprimorada estou importando um novo arquivo que guarda habilidades de desenvolvedores no arquivo "api_restfull.py" e definindo as novas rotas nele. 
+Nessa nova versão 2.0 estou importando o arquivo "habilidades.py" no arquivo "api_restfull.py" no qual eu defino as novas rotas. 
 
 Ambiente de desenvolvimento: Pycharm Comunity.
 
