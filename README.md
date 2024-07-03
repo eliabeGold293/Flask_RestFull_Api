@@ -1,5 +1,5 @@
-Exercitando o conceito de REST API com FLASK 2.0 
-
+Exercitando o conceito de REST-Ful API com FLASK 
+Nessa nova versão aprimorada estou importando um novo arquivo que guarda habilidades de desenvolvedores no arquivo "api_restfull.py" e definindo as novas rotas nele. 
 Ambiente de desenvolvimento: Pycharm Comunity.
 
 Pacotes baixados no meu ambinete virtual:
