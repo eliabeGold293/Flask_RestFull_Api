@@ -1,4 +1,4 @@
-Exercitando o conceito de REST-Ful API com FLASK.
+Exercitando o conceito de REST-Ful API com FLASK_RESTFUL.
 
 Nessa nova versão aprimorada estou importando um novo arquivo que guarda habilidades de desenvolvedores no arquivo "api_restfull.py" e definindo as novas rotas nele. 
 
